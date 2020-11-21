@@ -3,8 +3,8 @@
 ## What is Equifax?
 Equifax is one of the big three credit rating agencies. Its competitors are TransUnion and Experian.
 
-## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
-Equifax has earned a spot on the IDC FinTech Rankings list consecutively for the past 15 years since it has been produced.
+##Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+Equifax has earned a spot on the IDC FinTech Rankings list consecutively for the past 15 years since it has been produced. Equifax had a major data breach in 2017 that affected 148 million users. They new about security flaws for years but waited along time to share this with public.
 
 ## Where is the Equifax going?
 The goal of Equifax is to move at a different speed. Using proprietary Keying and Linking, it is simplified. 
