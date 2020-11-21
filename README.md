@@ -4,4 +4,4 @@
 Equifax is one of the big three credit rating agencies. Its competitors are TransUnion and Experian.
 ## Where is the Equifax going?
 The goal of Equifax is to move at a different speed. Using proprietary Keying and Linking, it is simplified. 
-Equifax uses data, analytics, and technology to serve customers globally, to create insights into decision making
+Equifax uses data, analytics, and technology to serve customers globally, to create insights into decision making and to provide the ability to explanation these decisions 
