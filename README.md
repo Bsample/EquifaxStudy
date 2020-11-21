@@ -7,3 +7,4 @@ The goal of Equifax is to move at a different speed. Using proprietary Keying an
 Equifax uses data, analytics, and technology to serve customers globally, to create insights into decision making and to provide the ability to explanation these decisions 
 ## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 Equifax has earned a spot on the IDC FinTech Rankings list consecutively for the past 15 years since it has been produced.
+### By: Byron, Stephen, Jackie
